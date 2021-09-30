@@ -19,8 +19,7 @@
 
 
 ## 협업 툴
-
-![화면 캡처 2021-09-30 175724](C:\Users\dute7\Desktop\화면 캡처 2021-09-30 175724.jpg)
+![줌 (ZOOM) PC 버전 다운로드 - 화상회의 앱](https://new-version.download/wp-content/uploads/ZOOM-PC.png)
 
 
 
