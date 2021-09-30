@@ -1,0 +1,33 @@
+#hi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 700px;
+    font-weight: bold;
+    margin-top: 500px;
+    white-space:nowrap;
+
+    }
+
+  #box1{
+    display: flex;
+    position: absolute;
+    background-color: aquamarine;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 100%;
+    border: 15px;
+    padding:0mm;
+    overflow:-moz-hidden-unscrollable;
+    max-width: 1920px;
+    margin: auto;
+    border: 3px;
+    
+}
+  .in-box > image{
+    display: box;
+    max-width: 1920px;
+
+}
